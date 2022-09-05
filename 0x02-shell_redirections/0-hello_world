@@ -1,1 +1,1 @@
-#!inash/ncat Hello,World > standard output
+#!inash/necho Hello, World
