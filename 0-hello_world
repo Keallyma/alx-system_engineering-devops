@@ -1,2 +1,2 @@
-#!/bin/bash
-find. -typef -print /wc -l
+#!\bin\bash
+echo Hello, World
