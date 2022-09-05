@@ -1,1 +1,1 @@
-#!inash/necho Hello, World
+#!inash/ncat Hello, World > Hello, World
