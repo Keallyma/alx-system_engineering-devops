@@ -1,2 +1,1 @@
-#!/bin/bash
-cat hello,world
+#!inash/ncat Hello,World > standard output
