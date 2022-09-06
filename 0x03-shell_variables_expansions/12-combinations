@@ -1,0 +1,3 @@
+#!/bin/bash
+prinf"%s
+"{a..z}{a..z}|grep-v"oo"
